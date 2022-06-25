@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "606879447448",
+    "project_id": "jackett-bb568",
+    "storage_bucket": "jackett-bb568.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606879447448:android:319895bd562cf3a69953ed",
+        "android_client_info": {
+          "package_name": "com.example.jackett"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606879447448-42npnefbrmgkvnmr49jf25796ckgc3hj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jackett",
+            "certificate_hash": "e7abcd2d23a6508eb1f6722e0410ffa5d6a7ab7b"
+          }
+        },
+        {
+          "client_id": "606879447448-d5a20dgjl69e3l5qukmm7oosog9bghdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2nKiyZnHFboF9b-Hip3bnkg9r9fA6j44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606879447448-d5a20dgjl69e3l5qukmm7oosog9bghdj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

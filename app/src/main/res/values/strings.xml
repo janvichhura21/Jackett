@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">Jackett</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="select_a_language" translatable="false">Select a Language</string>
+    <string name="name">Name</string>
+    <string name="next">Next</string>
+    <string name="teacher">Teacher</string>
+    <string name="student">Student</string>
+    <string name="select_role">Select Role</string>
+    <string name="proceed">Proceed</string>
+    <string name="congratulations_to_successfully_nenter_to_this_application" translatable="false">Congratulations to successfully \nEnter to this application</string>
+    <string name="successfull">SuccessFull</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+</resources>

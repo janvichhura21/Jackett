@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jackett</string>
+    <string name="select_a_language" translatable="false">Select a Language</string>
+    <string name="name">Nom</string>
+    <string name="next">Prochaine</string>
+    <string name="teacher">Professeure</string>
+    <string name="student">Étudiante</string>
+    <string name="select_role">Sélectionnez un rôle</string>
+    <string name="proceed">Proceed</string>
+    <string name="successfull">SuccessFull</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+</resources>

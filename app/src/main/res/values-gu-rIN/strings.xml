@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">જેકેટ</string>
+    <string name="select_a_language" translatable="false">એક ભાષા પસંદ કરો</string>
+    <string name="name">નામ</string>
+    <string name="next">આગળ</string>
+    <string name="teacher">શિક્ષક</string>
+    <string name="student">વિદ્યાર્થી</string>
+    <string name="select_role">ભૂમિકા પસંદ કરો</string>
+    <string name="proceed">Proceed</string>
+    <string name="successfull">SuccessFull</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+</resources>
