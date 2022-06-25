@@ -44,7 +44,6 @@ class WelcomeFragment : Fragment() {
 
     private fun setUpBtn() {
         binding.button3.setOnClickListener {
-
             val view=View.inflate(requireContext(),R.layout.dialog_view,null)
             val builder= AlertDialog.Builder(requireContext())
             builder.setView(view)
